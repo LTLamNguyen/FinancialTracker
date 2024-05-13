@@ -1,0 +1,11 @@
+{
+    "financialReminders": [],
+    "budgets": [],
+    "financialGoals": [{
+        "targetAmount": 1000,
+        "targetDate": "2023-11-11",
+        "description": "abc",
+        "achieved": false
+    }],
+    "transactions": []
+}

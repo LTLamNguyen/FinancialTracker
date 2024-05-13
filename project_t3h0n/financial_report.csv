@@ -1,0 +1,14 @@
+Transaction Description,Transaction Amount,Transaction Date,Transaction Type
+abc,123.0,2023-10-10,INCOME
+xyz,234.0,2023-12-12,EXPENSE
+
+Budget Category,Budget Limit
+sfj,1234.0
+sdfj,345.0
+
+Financial Goal Description,Target Amount,Target Date,Status
+dhe,12345.0,2023-12-25,false
+sdfjh,12345.0,2023-11-11,false
+
+Financial Reminder Description,Reminder Amount,Due Date,Status
+dfjk,3456.0,2023-11-10,false

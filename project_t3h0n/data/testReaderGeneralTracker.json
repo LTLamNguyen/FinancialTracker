@@ -1,0 +1,24 @@
+{
+    "financialReminders": [{
+        "amount": 50,
+        "dueDate": "2023-11-06",
+        "description": "phone plan",
+        "achieved": false
+    }],
+    "budgets": [{
+        "limit": 1000,
+        "description": "grocery"
+    }],
+    "financialGoals": [{
+        "targetAmount": 80000,
+        "targetDate": "2024-09-05",
+        "description": "car",
+        "achieved": false
+    }],
+    "transactions": [{
+        "date": "2023-10-10",
+        "transactionType": "EXPENSE",
+        "amount": 5,
+        "description": "coffee"
+    }]
+}
